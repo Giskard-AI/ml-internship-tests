@@ -1,18 +1,21 @@
 # Technical exercises - Machine Learning internships @ Giskard
 
-Hi! As part of our recruitment process, we’d like you to complete the following technical test in 10 days. Once you finish the exercise, you can send your notebook or share your code repository by email (matteo@giskard.ai). If you want to share a private GitHub repository, make sure you give read access to [`mattbit`](https://github.com/mattbit).
-
-If you have problems running the notebook, get in touch with Matteo at matteo@giskard.ai.
-
-We hope this assignment will also offer a chance to learn something new. Good luck!
+Hi! As part of our recruitment process, we’d like you to complete the following technical test in 10 days.
 
 ## Overview
 
 We have two available ML internship tracks:
-1. ML Research internship
-2. ML Advocate Engineer internship
+1. **ML Research internship**
+2. **ML Advocate Engineer internship**
 
 Based on the track you decided to follow, you will need to complete a different assignment. 
+
+Keep in mind that we strongly value:
+- code quality, clarity & neatness
+- short and straight to the point explanations if needed
+- reasoned processes more than brute-force solutions
+- reasoning more than the outcome
+
 
 ## ML Research internship
 
@@ -20,11 +23,9 @@ The assignment for ML Research intern is presented in this notebook: [DS_R&D_Ass
 
 All the files needed in the exercises are included in this repository (e.g. `points_1.npy`, `stopwords.txt`).
 
-Keep in mind that we strongly value:
-- code quality, clarity & neatness
-- short and straight to the point explanations if needed
-- reasoned processes more than brute-force solutions
-- reasoning more than the outcome
+Once you finish the exercise, you can send your notebook or share your code repository by email (matteo@giskard.ai). If you want to share a private GitHub repository, make sure you give read access to [`mattbit`](https://github.com/mattbit).
+
+If you have problems running the notebook, get in touch with Matteo at matteo@giskard.ai.
 
 
 ## ML Advocate Engineer internship
@@ -33,9 +34,9 @@ You will find the assignment for ML Advocate Engineer intern in this notebook: [
 
 All the files needed in the exercises are included in this repository (e.g. `stopwords.txt`).
 
-Keep in mind that we strongly value:
-- code quality, clarity & neatness
-- short and straight to the point explanations if needed
-- reasoned processes more than brute-force solutions
-- reasoning more than the outcome
+Once you finish the exercise, you can send your notebook or share your code repository by email (luca@giskard.ai and jmjm@giskard.ai). If you want to share a private GitHub repository, make sure you give read access to [`luca-martial`](https://github.com/luca-martial) and [`jmsquare`](https://github.com/jmsquare).
 
+If you have problems running the notebook, get in touch with Luca at luca@giskard.ai.
+
+> [!TIP]
+> We hope this assignment will also offer a chance to learn something new. Good luck!
