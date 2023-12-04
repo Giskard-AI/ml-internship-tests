@@ -1,4 +1,4 @@
-# Technical exercise - Data scientist intern @ Giskard
+# Technical exercises - Machine Learning internships @ Giskard
 
 Hi! As part of our recruitment process, we’d like you to complete the following technical test in 10 days. Once you finish the exercise, you can send your notebook or share your code repository by email (matteo@giskard.ai). If you want to share a private GitHub repository, make sure you give read access to [`mattbit`](https://github.com/mattbit).
 
@@ -8,15 +8,15 @@ We hope this assignment will also offer a chance to learn something new. Good lu
 
 ## Overview
 
-We have two available internship tracks:
-- Data scientist (Research & Development)
-- Data scientist (Technical Writing)
+We have two available ML internship tracks:
+1. ML Research internship
+2. ML Advocate Engineer internship
 
-Based on the track you decided to follow, you will need to complete a different assignment. If you are interested in both tracks, you can complete both assignments.
+Based on the track you decided to follow, you will need to complete a different assignment. 
 
-## Data scientist (Research & Development)
+## ML Research internship
 
-The assignment for Data Scientist Intern in the Research & Development team is presented in this notebook: [DS_R&D_Assignment.ipynb](DS_R&D_Assignment.ipynb). The assignment consists in 5 exercises, in increasing order of difficulty. The first three exercises should be relatively simple, you shouldn’t spend too much time on them.
+The assignment for ML Research intern is presented in this notebook: [DS_R&D_Assignment.ipynb](DS_R&D_Assignment.ipynb). The assignment consists in 5 exercises, in increasing order of difficulty. The first three exercises should be relatively simple, you shouldn’t spend too much time on them.
 
 All the files needed in the exercises are included in this repository (e.g. `points_1.npy`, `stopwords.txt`).
 
@@ -27,9 +27,9 @@ Keep in mind that we strongly value:
 - reasoning more than the outcome
 
 
-## Data scientist (Technical Writing)
+## ML Advocate Engineer internship
 
-You will find the assignment for Data Scientist Intern for Technical Writing in this notebook: [DS_TechWriting_Assignment.ipynb](DS_TechWriting_Assignment.ipynb). The assignment consists in 2 exercises, the first one is a technical exercise and second a writing one. 
+You will find the assignment for ML Advocate Engineer intern in this notebook: [DS_TechWriting_Assignment.ipynb](DS_TechWriting_Assignment.ipynb). The assignment consists in 2 exercises, the first one is a technical exercise and second a writing one. 
 
 All the files needed in the exercises are included in this repository (e.g. `stopwords.txt`).
 
